@@ -135,3 +135,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2ead009db6b80141b7a4408e237885e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  CoinFX: {fileID: 8300000, guid: 09a238996d5c7464b9e38da7f72c292a, type: 3}
+  point: 100
